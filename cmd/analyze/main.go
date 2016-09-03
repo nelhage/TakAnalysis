@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/nelhage/taktician/ptn"
-	"github.com/nqeron/Takanalysis/analysis"
+	"github.com/nqeron/TakAnalysis/analysis"
 )
 
 var (
